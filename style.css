@@ -241,13 +241,14 @@ p {
 }
 
 body{
-  
+  font-family: Helvetica, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   line-height: 1.5;
   padding: 1em;
   font-family: 'Roboto', 'sans-serif';
   }
   
 h1{
+  font-family: Helvetica;
   text-align: center;
   padding: 1em;
   text-transform: uppercase;
@@ -255,6 +256,7 @@ h1{
 }
 
 h3{
+  font-family: Helvetica;
   text-align: center;
   text-transform: uppercase;
   font-size: 20px;
@@ -382,6 +384,7 @@ footer {
   margin: 0 auto;
 }
 
+
 .box1, .box2, .box3 {
   width: 100%;
   float: center;
@@ -447,6 +450,10 @@ p {
 
 .color{
   color: #FF851B;
+}
+
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 }
